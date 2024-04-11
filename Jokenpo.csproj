@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Jokenpo.cs" />
-    <Compile Include="NewFolder1\IRegras.cs" />
+    <Compile Include="Interfaces\IRegras.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
